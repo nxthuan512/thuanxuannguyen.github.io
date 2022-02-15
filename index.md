@@ -1,4 +1,4 @@
-## Welcome to Thomas' Pages
+## Welcome to Thuan Nguyen's Corner
 
 You can use the [editor on GitHub](https://github.com/nxthuan512/thuanxuannguyen.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
